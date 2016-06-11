@@ -14,7 +14,7 @@ body {
 .col-md-5 {
 	float: center;
 	padding: 5px;
-	border: 5px ridge purple;
+	border: 10px ridge purple;
 	margin-right: 40px;
 	margin-left: 40px;
 	margin-bottom: 10px;
